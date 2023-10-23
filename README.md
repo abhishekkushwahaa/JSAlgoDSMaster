@@ -1,1 +1,1 @@
-# LeetCode-JavaScript :Boom:
+# LeetCode-JavaScript
