@@ -5,13 +5,8 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
-## `E` Easy :yellow_heart:
 `E` [TwoSum]()
-
-## `M` - Medium :orange_heart:
 `M` [AddTwoNum]()
-
-## `H` - Hard :heart:
 
 ## Feedback and Suggestions
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/pulls).
