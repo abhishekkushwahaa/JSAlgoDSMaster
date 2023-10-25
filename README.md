@@ -5,9 +5,9 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
-`E` [TwoSum]()
+`E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Easy/TwoSum(%231).js)
 
-`M` [AddTwoNum]()
+`M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Medium/AddTwoNum(%232).js)
 
 ## Feedback and Suggestions
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/pulls).
