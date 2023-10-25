@@ -6,7 +6,9 @@
 `E` - Easy `M` - Medium `H` - Hard
 
 `E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Easy/TwoSum.js)
+
 `M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Medium/AddTwoNum.js)
+
 `H` [Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Hard/MedianTwoArr.js)
 
 
