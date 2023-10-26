@@ -5,15 +5,15 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
-`E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Easy/TwoSum.js)
+`E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
 
-`M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Medium/AddTwoNum.js)
+`M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
 
-`H` [Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/blob/main/Hard/MedianTwoArr.js)
+`H` [Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
 
 
 ## Feedback and Suggestions
-We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-JavaScript/pulls).
+We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-Problems/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-Problems/pulls).
 
 Happy coding and have fun solving the challenges!
 
