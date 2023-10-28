@@ -5,8 +5,10 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
+<details>
 <summary> `E` - Easy </summary>
   - `E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
+</details>
 
   - `M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
   - `M` [Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
