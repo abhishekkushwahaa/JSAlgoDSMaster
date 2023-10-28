@@ -5,6 +5,7 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
+<summary> `E` - Easy </summary>
   - `E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
 
   - `M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
