@@ -5,13 +5,12 @@
 
 `E` - Easy `M` - Medium `H` - Hard
 
-`E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
+  - `E` [TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
 
-`M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
+  - `M` [AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
+  - `M` [Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
 
-`M` [Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
-
-`H` [Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
+  - `H` [Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
 
 
 ## Feedback and Suggestions
