@@ -10,6 +10,7 @@
 <summary>Easy Problems</summary>
 
   1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
+  2. `E`[RomanToInteger](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
 
 </details>
 
