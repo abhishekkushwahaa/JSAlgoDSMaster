@@ -11,7 +11,8 @@
 
   1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
   2. `E`[RomanToInteger](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
-  2. `E`[LongestCommonPrefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
+  3. `E`[LongestCommonPrefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
+  4. `E`[ValidParentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
 
 </details>
 
