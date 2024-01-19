@@ -22,6 +22,7 @@
 
   1. `M`[AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
   2. `M`[Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
+  2. `M`[Longest Palindromic Substring](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/LongSubstring.js)
 
 </details>
 
