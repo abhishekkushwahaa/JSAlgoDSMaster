@@ -1,18 +1,31 @@
 # LeetCode Problems and their Solution :thinking:
+
 👋 Welcome to the LeetCode Problems repository! In this repository, you will find a collection of leetcode problems and solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find problems suited to your level.
 
 > Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
 
 `E` - Easy `M` - Medium `H` - Hard
 
+### Topics Wise Problems :rocket:
+
+<details>
+
+<summary>Arrays</summary>
+
+1. `E`[TwoSum]()
+
+</details>
+
+### Problems hardness Wise :rocket:
+
 <details>
 
 <summary>Easy Problems</summary>
 
-  1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
-  2. `E`[RomanToInteger](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
-  3. `E`[LongestCommonPrefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
-  4. `E`[ValidParentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
+1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
+2. `E`[RomanToInteger](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
+3. `E`[LongestCommonPrefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
+4. `E`[ValidParentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
 
 </details>
 
@@ -20,9 +33,9 @@
 
 <summary>Medium Problems</summary>
 
-  1. `M`[AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
-  2. `M`[Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
-  2. `M`[Longest Palindromic Substring](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/LongSubstring.js)
+1. `M`[AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
+2. `M`[Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
+3. `M`[Longest Palindromic Substring](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/LongSubstring.js)
 
 </details>
 
@@ -30,17 +43,18 @@
 
 <summary>Hard Problems</summary>
 
-  1. `H`[Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
-   
+1. `H`[Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
+
 </details>
 
-
 ## Feedback and Suggestions
+
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-Problems/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-Problems/pulls).
 
 Happy coding and have fun solving the challenges!
 
 ## Connect with us :gift_heart:
+
 Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
 
 <div>
