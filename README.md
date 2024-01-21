@@ -16,7 +16,7 @@
 
 </details>
 
-### Problems hardness Wise :rocket:
+### Problems Hardness Wise :star2:
 
 <details>
 
