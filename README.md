@@ -24,7 +24,7 @@
 
 <summary>Strings</summary>
 
-`T`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/strings.js)
+`T`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/strings.js)
 
 1. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
 2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
@@ -37,9 +37,9 @@
 
 <summary>Easy Problems</summary>
 
-1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/TwoSum.js)
-2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/removeDuplicates.js)
-3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/removeElement.js)
+1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
+2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
+3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
 
 </details>
 
