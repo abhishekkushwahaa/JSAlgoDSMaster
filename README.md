@@ -6,17 +6,17 @@
 
 `E` - Easy `M` - Medium `H` - Hard `T` - Topic
 
-### Topics Wise Problems :rocket:
+### Topics :rocket:
 
 <details>
 
 <summary>Arrays</summary>
 
-`T`[Arrays](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/array.js)
+`T`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
 
-1. `E`[Two Sum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/TwoSum.js)
-2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/removeDuplicates.js)
-3. `E`[Remove Element](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/removeElement.js)
+1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
+2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
+3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
 
 </details>
 
@@ -24,23 +24,22 @@
 
 <summary>Strings</summary>
 
-`T`[Strings](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/strings.js)
+`T`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/strings.js)
 
-1. `E`[Reverse String](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Strings/Reverse.js)
-2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Strings/validAnagram.js)
+1. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
+2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
 
 </details>
 
-### Problems Hardness Wise :star2:
+### Problems :star2:
 
 <details>
 
 <summary>Easy Problems</summary>
 
-1. `E`[Two Sum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
-2. `E`[Roman To Integer](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
-3. `E`[Longest Common Prefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
-4. `E`[Valid Parentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
+1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/TwoSum.js)
+2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/removeDuplicates.js)
+3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/TopicWise/Arrays/removeElement.js)
 
 </details>
 
@@ -48,9 +47,9 @@
 
 <summary>Medium Problems</summary>
 
-1. `M`[AddTwoNum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/AddTwoNum.js)
-2. `M`[Longest Substring Without Repeating Characters](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/SubstringRep.js)
-3. `M`[Longest Palindromic Substring](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Medium/LongSubstring.js)
+1. `M`[AddTwoNum]()
+2. `M`[Longest Substring Without Repeating Characters]()
+3. `M`[Longest Palindromic Substring]()
 
 </details>
 
@@ -58,13 +57,13 @@
 
 <summary>Hard Problems</summary>
 
-1. `H`[Median of Two Sorted Array](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Hard/MedianTwoArr.js)
+1. `H`[Median of Two Sorted Array]()
 
 </details>
 
 ## Feedback and Suggestions
 
-We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/LeetCode-Problems/issues) or create a [pull request](https://github.com/abhishekkushwahaa/LeetCode-Problems/pulls).
+We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/issues) or create a [pull request](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/pulls).
 
 Happy coding and have fun solving the challenges!
 
