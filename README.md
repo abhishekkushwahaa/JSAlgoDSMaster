@@ -4,7 +4,7 @@
 
 > Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
 
-`E` - Easy `M` - Medium `H` - Hard
+`E` - Easy `M` - Medium `H` - Hard `T` - Topic
 
 ### Topics Wise Problems :rocket:
 
@@ -12,7 +12,22 @@
 
 <summary>Arrays</summary>
 
-1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/TwoSum.js)
+`T`[Arrays](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/array.js)
+
+1. `E`[Two Sum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/TwoSum.js)
+2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/removeDuplicates.js)
+3. `E`[Remove Element](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/removeElement.js)
+
+</details>
+
+<details>
+
+<summary>Strings</summary>
+
+`T`[Strings](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/strings.js)
+
+1. `E`[Reverse String](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Strings/Reverse.js)
+2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Strings/validAnagram.js)
 
 </details>
 
@@ -22,10 +37,10 @@
 
 <summary>Easy Problems</summary>
 
-1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
-2. `E`[RomanToInteger](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
-3. `E`[LongestCommonPrefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
-4. `E`[ValidParentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
+1. `E`[Two Sum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/TwoSum.js)
+2. `E`[Roman To Integer](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/RomanToNum.js)
+3. `E`[Longest Common Prefix](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/CommonPrefix.js)
+4. `E`[Valid Parentheses](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/Easy/ValidPare.js)
 
 </details>
 
