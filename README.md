@@ -1,4 +1,4 @@
-# Data Structure and Algorithms in JavaScript with Problems and their Solution :thinking:
+# Data Structures and Algorithms in JavaScript with Problems and their Solution :thinking:
 
 👋 Welcome to the Data Structure and Algorithms in JavaScript repository! In this repository, you will find a collection of Data Structure and Algorithms in JavaScript with problems and their solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find problems suited to your level.
 
