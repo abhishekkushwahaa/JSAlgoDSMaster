@@ -12,7 +12,7 @@
 
 <summary>Arrays</summary>
 
-1. `E`[TwoSum]()
+1. `E`[TwoSum](https://github.com/abhishekkushwahaa/LeetCode-Problems/blob/main/TopicWise/Arrays/TwoSum.js)
 
 </details>
 
