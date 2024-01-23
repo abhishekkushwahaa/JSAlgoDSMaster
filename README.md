@@ -18,8 +18,6 @@
 
 <details>
 
-<details>
-
 <summary>Classes & Pointers</summary>
 
 `T`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js)
