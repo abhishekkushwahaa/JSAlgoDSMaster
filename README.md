@@ -18,6 +18,17 @@
 
 <details>
 
+<details>
+
+<summary>Classes & Pointers</summary>
+
+`T`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js)
+`T`[Pointer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/pointers.js)
+
+</details>
+
+<details>
+
 <summary>Arrays</summary>
 
 `T`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
