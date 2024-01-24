@@ -20,7 +20,7 @@
 
 <summary>Classes & Pointers</summary>
 
-`T`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js) <br></br>
+`T`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js) &nbsp; &nbsp; &nbsp;
 `T`[Pointer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/pointers.js)
 
 </details>
