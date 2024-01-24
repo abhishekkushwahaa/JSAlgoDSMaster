@@ -48,6 +48,16 @@
 
 </details>
 
+<details>
+
+<summary>Linked List</summary>
+
+`T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linklist.js)
+
+1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
+
+</details>
+
 ### Problems :star2:
 
 <details>
