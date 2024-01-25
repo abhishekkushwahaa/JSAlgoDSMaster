@@ -31,16 +31,25 @@ There are three types of linked list.
 
 In this type of linked list, every node stores address or reference of next node in list and the last node has next address or reference as NULL.
 
+![Singly Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/612px-Singly-linked-list.svg.png)
+
 ### 2.Doubly Linked List
 
 In this type of linked list, every node stores address or reference of previous node and next node in list.
+
+![Doubly Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/915px-Doubly-linked-list.svg.png)
 
 ### 3.Circular Linked List
 
 In this type of linked list, every node stores address or reference of next node and the last node has next address or reference of first node as NULL.
 
-## Advantages of Linked Lists
+![Circular Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Circularly-linked-list.svg/610px-Circularly-linked-list.svg.png)
 
-1. Dynamic size
-2. Ease of insertion/deletion
-3. Ease of doing operations like insert/delete at a specific position.
+### Advantages
+
+- O(1) time insertions and deletions in any position unlike arrays which require O(n) to do the same operation
+- Can expand continuously, without having to specify their size ahead of time
+
+### Disadvantages
+
+- Accessing an element in the list is O(k) where k is the kth element from the head.
