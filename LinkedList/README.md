@@ -31,7 +31,12 @@ There are three types of linked list.
 
 In this type of linked list, every node stores address or reference of next node in list and the last node has next address or reference as NULL.
 
-![Singly Linked List](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/612px-Singly-linked-list.svg.png)
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/612px-Singly-linked-list.svg.png"
+  background="white"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### 2.Doubly Linked List
 
