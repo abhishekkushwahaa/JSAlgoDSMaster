@@ -12,6 +12,7 @@
 
 <summary>Big O</summary>
 
+`T`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/README.md) &nbsp; &nbsp; &nbsp;
 `T`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/big.js)
 
 </details>
@@ -53,6 +54,7 @@
 
 <summary>Linked List</summary>
 
+`T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
 `T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js)
 
 1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
