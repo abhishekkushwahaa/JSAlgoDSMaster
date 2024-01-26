@@ -4,7 +4,7 @@
 
 > Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
 
-`E` - Easy `M` - Medium `H` - Hard `T` - Topic
+`R` - ReadMe File `T` - Topic `E` - Easy `M` - Medium `H` - Hard
 
 ### Topics :rocket:
 
@@ -54,7 +54,7 @@
 
 <summary>Linked List</summary>
 
-`T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
+`R`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
 `T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js)
 
 1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
