@@ -4,7 +4,7 @@
 
 > Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
 
-`R` - ReadMe File `T` - Topic `E` - Easy `M` - Medium `H` - Hard
+`R` - ReadMe `T` - Topic `E` - Easy `M` - Medium `H` - Hard
 
 ### Topics :rocket:
 
@@ -35,6 +35,7 @@
 1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
 2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
 3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
+4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
 
 </details>
 
@@ -83,6 +84,7 @@
 1. `M`[AddTwoNum]()
 2. `M`[Longest Substring Without Repeating Characters]()
 3. `M`[Longest Palindromic Substring]()
+4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
 
 </details>
 
