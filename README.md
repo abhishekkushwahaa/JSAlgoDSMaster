@@ -63,38 +63,17 @@
 
 </details>
 
-### Problems :star2:
+### Companies Wise :star2:
 
 <details>
 
-<summary>Easy Problems</summary>
-
-1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
-2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
-3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
-4. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
-5. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
-6. `E`[Valid Palindrome](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validPalindrome.js)
+<summary>Google</summary>
 
 </details>
 
 <details>
 
-<summary>Medium Problems</summary>
-
-1. `M`[AddTwoNum]()
-2. `M`[Longest Substring Without Repeating Characters]()
-3. `M`[Longest Palindromic Substring]()
-4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
-5. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
-
-</details>
-
-<details>
-
-<summary>Hard Problems</summary>
-
-1. `H`[Median of Two Sorted Array]()
+<summary>Facebook</summary>
 
 </details>
 
