@@ -36,6 +36,7 @@
 2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
 3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
 4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
+5. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
 
 </details>
 
@@ -85,6 +86,7 @@
 2. `M`[Longest Substring Without Repeating Characters]()
 3. `M`[Longest Palindromic Substring]()
 4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
+5. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
 
 </details>
 
