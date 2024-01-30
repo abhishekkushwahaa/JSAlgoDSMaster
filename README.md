@@ -37,6 +37,7 @@
 3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
 4. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
 5. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
+6. `M`[Container With Most Water](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/mostWater.js)
 
 </details>
 
