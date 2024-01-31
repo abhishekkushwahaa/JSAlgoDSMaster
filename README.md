@@ -50,6 +50,7 @@
 1. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
 2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
 3. `E`[Valid Palindrome](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validPalindrome.js)
+4. `M`[ZigZag Conversion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Zigzag.js)
 
 </details>
 
