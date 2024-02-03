@@ -53,6 +53,7 @@
 2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
 3. `E`[Valid Palindrome](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validPalindrome.js)
 4. `M`[ZigZag Conversion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Zigzag.js)
+5. `M`[Integer to Roman](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/IntegerToRoman.js)
 
 </details>
 
