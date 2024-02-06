@@ -56,6 +56,7 @@
 3. `E`[Valid Palindrome](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validPalindrome.js)
 4. `M`[ZigZag Conversion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Zigzag.js)
 5. `M`[Integer to Roman](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/IntegerToRoman.js)
+6. `M`[String to Integer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/stringToInteger.js)
 
 </details>
 
