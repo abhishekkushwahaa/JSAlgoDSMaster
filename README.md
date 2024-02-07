@@ -42,7 +42,7 @@
 8. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
 9. `M`[4 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/4Sum.js)
 10. `M`[Container With Most Water](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/mostWater.js)
-11. `M`[First Missing Positive](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/missingFirstPositive.js)
+11. `H`[First Missing Positive](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/missingFirstPositive.js)
 
 </details>
 
