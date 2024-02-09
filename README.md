@@ -30,7 +30,7 @@
 
 <summary>Recursion</summary>
 
-`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/Recursion.js) &nbsp; &nbsp; &nbsp;
+`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/Recursion.js)
 
 </details>
 
@@ -75,8 +75,9 @@
 <summary>Linked List</summary>
 
 `R`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
-`TI`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js)
-`TI`[Doubly Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Doublyll.js)
+`TI`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js) &nbsp; &nbsp; &nbsp;
+`TI`[Doubly Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Doublyll.js) &nbsp; &nbsp; &nbsp;
+`TI`[Circular Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Circularll.js)
 
 1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
 
