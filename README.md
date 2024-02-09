@@ -28,6 +28,14 @@
 
 <details>
 
+<summary>Recursion</summary>
+
+`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/Recursion.js) &nbsp; &nbsp; &nbsp;
+
+</details>
+
+<details>
+
 <summary>Arrays</summary>
 
 `TI`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
