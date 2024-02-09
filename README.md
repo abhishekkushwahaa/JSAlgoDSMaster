@@ -4,7 +4,7 @@
 
 > Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
 
-`R` - ReadMe `T` - Topic `E` - Easy `M` - Medium `H` - Hard
+`R` - ReadMe `TI` - Topic Implementation `E` - Easy `M` - Medium `H` - Hard
 
 ### Topics :rocket:
 
@@ -12,8 +12,8 @@
 
 <summary>Big O</summary>
 
-`T`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/README.md) &nbsp; &nbsp; &nbsp;
-`T`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/big.js)
+`TI`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/README.md) &nbsp; &nbsp; &nbsp;
+`TI`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/big.js)
 
 </details>
 
@@ -21,8 +21,8 @@
 
 <summary>Classes & Pointers</summary>
 
-`T`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js) &nbsp; &nbsp; &nbsp;
-`T`[Pointer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/pointers.js)
+`TI`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js) &nbsp; &nbsp; &nbsp;
+`TI`[Pointer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/pointers.js)
 
 </details>
 
@@ -30,7 +30,7 @@
 
 <summary>Arrays</summary>
 
-`T`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
+`TI`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
 
 1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
 2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
@@ -50,7 +50,7 @@
 
 <summary>Strings</summary>
 
-`T`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/strings.js)
+`TI`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/strings.js)
 
 1. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
 2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
@@ -67,7 +67,8 @@
 <summary>Linked List</summary>
 
 `R`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
-`T`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js)
+`TI`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js)
+`TI`[Doubly Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Doublyll.js)
 
 1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
 
