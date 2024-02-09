@@ -30,7 +30,7 @@
 
 <summary>Recursion</summary>
 
-`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/Recursion.js)
+`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Recursion/Recursion.js)
 
 </details>
 
