@@ -23,7 +23,8 @@ const list = {
 };
 */
 
-// Node class construct with value and next
+// Construct Node class
+// Properties: value, next
 class Node {
   constructor(value) {
     this.value = value;
@@ -31,7 +32,8 @@ class Node {
   }
 }
 
-// LinkedList class construct with head and tail
+// Construct LinkedList class
+// Properties: head, tail, length
 class LinkedList {
   constructor() {
     this.head = null;
@@ -337,3 +339,11 @@ list.push(10);
 list.push(3);
 list.pop();
 console.log(list);
+
+// Time complexity of linked list operations
+// Access: O(n)
+// Search: O(n)
+// Insertion: O(1)
+// Deletion: O(1)
+// Space complexity: O(n)
+// Where n is the number of nodes in the linked list
