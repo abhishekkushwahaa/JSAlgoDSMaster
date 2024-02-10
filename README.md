@@ -6,7 +6,7 @@
 
 `R` - ReadMe `TI` - Topic Implementation `E` - Easy `M` - Medium `H` - Hard
 
-### Topics :rocket:
+## Topics :rocket:
 
 <details>
 
@@ -83,7 +83,7 @@
 
 </details>
 
-### Companies Wise :star2:
+## Companies Wise :star2:
 
 <details>
 
