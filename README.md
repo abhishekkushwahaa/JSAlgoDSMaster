@@ -4,8 +4,6 @@
 
 > Note: This repository contains my solutions to LeetCode problems implemented in JavaScript.
 
---
-
 ## Table of Contents
 
 - [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
@@ -20,27 +18,19 @@
   - [Feedback and Suggestions](#feedback-and-suggestions)
   - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
 
---
-
 ## Big O
 
 - [Big O Overview](BigO/README.md)
 - [Big O Implementation](BigO/big.js)
-
---
 
 ## Classes & Pointers
 
 - [Class Implementation](Classes&Pointers/classes.js)
 - [Pointer Implementation](Classes&Pointers/pointers.js)
 
---
-
 ## Recursion
 
 - [Recursion Examples](Recursion/Recursion.js)
-
---
 
 ## Arrays
 
@@ -58,8 +48,6 @@
   - [Container With Most Water](Arrays/mostWater.js)
   - [First Missing Positive](Arrays/missingFirstPositive.js)
 
---
-
 ## Strings
 
 - [Strings Overview](Strings/strings.js)
@@ -72,8 +60,6 @@
   - [Integer to Roman](Strings/IntegerToRoman.js)
   - [String to Integer](Strings/stringToInteger.js)
 
---
-
 ## Linked List
 
 - [Linked List Overview](LinkedList/README.md)
@@ -83,22 +69,16 @@
 - Questions on Linkedlists: 👇
   - [Remove Duplicates from Sorted List](LinkedList/removeDuplicates.js)
 
---
-
 ## Companies Wise :star2:
 
 - [Google](#google)
 - [Facebook](#facebook)
-
---
 
 ## Feedback and Suggestions
 
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/issues) or create a [pull request](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/pulls).
 
 Happy coding and have fun solving the challenges!
-
----
 
 ## Connect with us :gift_heart:
 
@@ -117,5 +97,3 @@ Stay updated with the latest coding challenges, tips, and more by following us o
 </div>
 
 Feel free to reach out to us via social media for any questions or suggestions. We'd love to hear from you.
-
----
