@@ -1,107 +1,104 @@
-# Data Structures and Algorithms in JavaScript with Problems and their Solution :thinking:
+# JavaScript Algorithms and Data Structures
 
-👋 Welcome to the Data Structure and Algorithms in JavaScript repository! In this repository, you will find a collection of Data Structure and Algorithms in JavaScript with problems and their solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find problems suited to your level.
+Welcome to the JavaScript Algorithms and Data Structures repository! This collection covers essential topics to help you enhance your JavaScript skills. Whether you're a beginner or an experienced developer, you'll find problems and solutions suitable for your level.
 
-> Note: This repository contains `my solution` to a `--LeetCode problem` implemented in JavaScript.
+> Note: This repository contains my solutions to LeetCode problems implemented in JavaScript.
 
-`R` - ReadMe `TI` - Topic Implementation `E` - Easy `M` - Medium `H` - Hard
+---
 
-## Topics :rocket:
+## Table of Contents
 
-<details>
+- [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+  - [Table of Contents](#table-of-contents)
+  - [Big O](#big-o)
+  - [Classes \& Pointers](#classes--pointers)
+  - [Recursion](#recursion)
+  - [Arrays](#arrays)
+  - [Strings](#strings)
+  - [Linked List](#linked-list)
+  - [Companies Wise :star2:](#companies-wise-star2)
+  - [Feedback and Suggestions](#feedback-and-suggestions)
+  - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
 
-<summary>Big O</summary>
+---
 
-`TI`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/README.md) &nbsp; &nbsp; &nbsp;
-`TI`[Big O](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/BigO/big.js)
+## Big O
 
-</details>
+- [Big O Overview](BigO/README.md)
+- [Big O Implementation](BigO/big.js)
 
-<details>
+---
 
-<summary>Classes & Pointers</summary>
+## Classes & Pointers
 
-`TI`[Class](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/classes.js) &nbsp; &nbsp; &nbsp;
-`TI`[Pointer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Classes&Pointers/pointers.js)
+- [Class Implementation](Classes&Pointers/classes.js)
+- [Pointer Implementation](Classes&Pointers/pointers.js)
 
-</details>
+---
 
-<details>
+## Recursion
 
-<summary>Recursion</summary>
+- [Recursion Examples](Recursion/Recursion.js)
 
-`TI`[Recursion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Recursion/Recursion.js)
+---
 
-</details>
+## Arrays
 
-<details>
+- [Arrays Overview](Arrays/array.js)
 
-<summary>Arrays</summary>
+  - [Two Sum](Arrays/TwoSum.js)
+  - [Remove Duplicates](Arrays/removeDuplicates.js)
+  - [Remove Element](Arrays/removeElement.js)
+  - [Search Insert Position](Arrays/searchInsert.js)
+  - [Plus One](Arrays/plusOne.js)
+  - [Best Time to Buy and Sell Stock](Arrays/bestTimeBuySellStock.js)
+  - [3 Sum](Arrays/3Sum.js)
+  - [3 Sum Closest](Arrays/3SumClosest.js)
+  - [4 Sum](Arrays/4Sum.js)
+  - [Container With Most Water](Arrays/mostWater.js)
+  - [First Missing Positive](Arrays/missingFirstPositive.js)
 
-`TI`[Arrays](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/array.js)
+---
 
-1. `E`[Two Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/TwoSum.js)
-2. `E`[Remove Duplicates](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeDuplicates.js)
-3. `E`[Remove Element](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/removeElement.js)
-4. `E`[Search Insert Position](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/searchInsert.js)
-5. `E`[Plus One](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/plusOne.js)
-6. `E`[Best Time to Buy and Sell Stock](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/bestTimeBuySellStock.js)
-7. `M`[3 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3Sum.js)
-8. `M`[3 Sum Closest](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/3SumClosest.js)
-9. `M`[4 Sum](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/4Sum.js)
-10. `M`[Container With Most Water](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/mostWater.js)
-11. `H`[First Missing Positive](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Arrays/missingFirstPositive.js)
+## Strings
 
-</details>
+- [Strings Overview](Strings/strings.js)
 
-<details>
+  - [Reverse String](Strings/Reverse.js)
+  - [Valid Anagram](Strings/validAnagram.js)
+  - [Valid Palindrome](Strings/validPalindrome.js)
+  - [Find the Index of the First Occurrence in a String](Strings/findIndex.js)
+  - [ZigZag Conversion](Strings/Zigzag.js)
+  - [Integer to Roman](Strings/IntegerToRoman.js)
+  - [String to Integer](Strings/stringToInteger.js)
 
-<summary>Strings</summary>
+---
 
-`TI`[Strings](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/strings.js)
+## Linked List
 
-1. `E`[Reverse String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Reverse.js)
-2. `E`[Valid Anagram](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validAnagram.js)
-3. `E`[Valid Palindrome](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/validPalindrome.js)
-4. `E`[Find the Index of the First Occurrence in a String](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/findIndex.js)
-5. `M`[ZigZag Conversion](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/Zigzag.js)
-6. `M`[Integer to Roman](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/IntegerToRoman.js)
-7. `M`[String to Integer](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/Strings/stringToInteger.js)
+- [Linked List Overview](LinkedList/README.md)
+- [Linked List Implementation](LinkedList/Linkedlist.js)
+- [Doubly Linked List Implementation](LinkedList/Doublyll.js)
+- [Circular Linked List Implementation](LinkedList/Circularll.js)
 
-</details>
+  - [Remove Duplicates from Sorted List](LinkedList/removeDuplicates.js)
 
-<details>
-
-<summary>Linked List</summary>
-
-`R`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/README.md) &nbsp; &nbsp; &nbsp;
-`TI`[Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Linkedlist.js) &nbsp; &nbsp; &nbsp;
-`TI`[Doubly Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Doublyll.js) &nbsp; &nbsp; &nbsp;
-`TI`[Circular Linked List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/Circularll.js)
-
-1. `E`[Remove Duplicates from Sorted List](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/blob/main/LinkedList/removeDuplicates.js)
-
-</details>
+---
 
 ## Companies Wise :star2:
 
-<details>
+- [Google](#google)
+- [Facebook](#facebook)
 
-<summary>Google</summary>
-
-</details>
-
-<details>
-
-<summary>Facebook</summary>
-
-</details>
+---
 
 ## Feedback and Suggestions
 
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/issues) or create a [pull request](https://github.com/abhishekkushwahaa/JSAlgoDSMaster/pulls).
 
 Happy coding and have fun solving the challenges!
+
+---
 
 ## Connect with us :gift_heart:
 
@@ -120,3 +117,5 @@ Stay updated with the latest coding challenges, tips, and more by following us o
 </div>
 
 Feel free to reach out to us via social media for any questions or suggestions. We'd love to hear from you.
+
+---
