@@ -1,10 +1,10 @@
 # JavaScript Algorithms and Data Structures
 
-Welcome to the JavaScript Algorithms and Data Structures repository! This collection covers essential topics to help you enhance your JavaScript skills. Whether you're a beginner or an experienced developer, you'll find problems and solutions suitable for your level.
+👋Welcome to the JavaScript Algorithms and Data Structures repository! This collection covers essential topics to help you enhance your JavaScript skills. Whether you're a beginner or an experienced developer, you'll find problems and solutions suitable for your level.
 
 > Note: This repository contains my solutions to LeetCode problems implemented in JavaScript.
 
----
+--
 
 ## Table of Contents
 
@@ -20,32 +20,32 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This collec
   - [Feedback and Suggestions](#feedback-and-suggestions)
   - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
 
----
+--
 
 ## Big O
 
 - [Big O Overview](BigO/README.md)
 - [Big O Implementation](BigO/big.js)
 
----
+--
 
 ## Classes & Pointers
 
 - [Class Implementation](Classes&Pointers/classes.js)
 - [Pointer Implementation](Classes&Pointers/pointers.js)
 
----
+--
 
 ## Recursion
 
 - [Recursion Examples](Recursion/Recursion.js)
 
----
+--
 
 ## Arrays
 
 - [Arrays Overview](Arrays/array.js)
-
+- Questions on Arrays: 👇
   - [Two Sum](Arrays/TwoSum.js)
   - [Remove Duplicates](Arrays/removeDuplicates.js)
   - [Remove Element](Arrays/removeElement.js)
@@ -58,12 +58,12 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This collec
   - [Container With Most Water](Arrays/mostWater.js)
   - [First Missing Positive](Arrays/missingFirstPositive.js)
 
----
+--
 
 ## Strings
 
 - [Strings Overview](Strings/strings.js)
-
+- Questions on Strings: 👇
   - [Reverse String](Strings/Reverse.js)
   - [Valid Anagram](Strings/validAnagram.js)
   - [Valid Palindrome](Strings/validPalindrome.js)
@@ -72,7 +72,7 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This collec
   - [Integer to Roman](Strings/IntegerToRoman.js)
   - [String to Integer](Strings/stringToInteger.js)
 
----
+--
 
 ## Linked List
 
@@ -80,17 +80,17 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This collec
 - [Linked List Implementation](LinkedList/Linkedlist.js)
 - [Doubly Linked List Implementation](LinkedList/Doublyll.js)
 - [Circular Linked List Implementation](LinkedList/Circularll.js)
-
+- Questions on Linkedlists: 👇
   - [Remove Duplicates from Sorted List](LinkedList/removeDuplicates.js)
 
----
+--
 
 ## Companies Wise :star2:
 
 - [Google](#google)
 - [Facebook](#facebook)
 
----
+--
 
 ## Feedback and Suggestions
 
