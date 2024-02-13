@@ -2,9 +2,6 @@
 
 // Why important: Doubly linked list is a more sophisticated form of linked list. It has two pointers, one to the next node and another to the previous node. This allows for more flexibility in the operations that can be performed on the list.
 
-// Constructor: DoublyLinkedList
-// Properties: head, tail, length
-
 // Constructor: Node
 // Properties: value, next, prev
 class Node {
@@ -161,6 +158,95 @@ class DoublyLinkedList {
       return true;
     }
     return false;
+  }
+
+  // Reverses the doubly linked list
+  reverse() {
+    let currentNode = this.head;
+    this.head = this.tail;
+    this.tail = currentNode;
+    for (let i = 0; i < this.length; i++) {
+      const prev = currentNode.prev;
+      currentNode.prev = currentNode.next;
+      currentNode.next = prev;
+      currentNode = currentNode.prev;
+    }
+    return this;
+  }
+
+  // Prints the values of the doubly linked list
+  print() {
+    const arr = [];
+    let currentNode = this.head;
+    while (currentNode) {
+      arr.push(currentNode.value);
+      currentNode = currentNode.next;
+    }
+    console.log(arr);
+  }
+
+  // Prints the values of the doubly linked list in reverse
+  printReverse() {
+    const arr = [];
+    let currentNode = this.tail;
+    while (currentNode) {
+      arr.push(currentNode.value);
+      currentNode = currentNode.prev;
+    }
+    console.log(arr);
+  }
+
+  // Returns the length of the doubly linked list
+  size() {
+    return this.length;
+  }
+
+  // Returns the doubly linked list as an array
+  toArray() {
+    const arr = [];
+    this.traverse((node) => arr.push(node.value));
+    return arr;
+  }
+
+  // Returns the doubly linked list as a string
+  toString() {
+    return this.toArray().join(" ");
+  }
+
+  // Rotates the doubly linked list by a given number of positions
+  rotate(num) {
+    const index =
+      num >= 0 ? num % this.length : this.length + (num % this.length);
+    const lastNode = this.get(this.length - 1);
+    const newLastNode = this.get(this.length - 1 - index);
+    const newHead = newLastNode.next;
+
+    lastNode.next = this.head;
+    this.head.prev = lastNode;
+    newLastNode.next = null;
+    this.head = newHead;
+    newHead.prev = null;
+    this.tail = newLastNode;
+  }
+
+  // Rotates the doubly linked list to the right by n steps
+  rotateRight(n) {
+    if (this.length <= 1) return;
+    n = n % this.length;
+    if (n === 0) return;
+    this.reverse();
+    this.reverseSublist(0, n - 1);
+    this.reverseSublist(n, this.length - 1);
+  }
+
+  // Rotates the doubly linked list to the left by n steps
+  rotateLeft(n) {
+    if (this.length <= 1) return;
+    n = n % this.length;
+    if (n === 0) return;
+    this.reverseSublist(0, n - 1);
+    this.reverseSublist(n, this.length - 1);
+    this.reverse();
   }
 }
 

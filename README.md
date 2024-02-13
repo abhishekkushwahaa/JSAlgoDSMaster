@@ -14,9 +14,11 @@
   - [Arrays](#arrays)
   - [Strings](#strings)
   - [Linked List](#linked-list)
+  - [Stack](#stack)
+  - [Queue](#queue)
   - [Companies Wise :star2:](#companies-wise-star2)
   - [Feedback and Suggestions](#feedback-and-suggestions)
-  - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
+  - [Connect with us :gift\_heart:](#connect-with-us-gift_heart)
 
 ## Big O
 
@@ -68,6 +70,21 @@
 - [Circular Linked List Implementation](LinkedList/Circularll.js)
 - Questions on Linkedlists: 👇
   - [Remove Duplicates from Sorted List](LinkedList/removeDuplicates.js)
+
+## Stack
+
+- [Stack Overview](Stack/README.md)
+- [Stack Implementation](Stack/stack.js)
+- Questions on Stack: 👇
+  - [Valid Parentheses](Stack/validParentheses.js)
+  - [Implement Stack using Queues](Stack/stackUsingQueue.js)
+
+## Queue
+
+- [Queue Overview](Queue/README.md)
+- [Queue Implementation](Queue/queue.js)
+- Questions on Queue: 👇
+  - [Implement Queue using Stacks](Queue/queueUsingStack.js)
 
 ## Companies Wise :star2:
 
