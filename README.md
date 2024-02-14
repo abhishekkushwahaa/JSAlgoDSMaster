@@ -16,23 +16,25 @@
   - [Linked List](#linked-list)
   - [Stack](#stack)
   - [Queue](#queue)
-  - [Companies Wise :star2:](#companies-wise-star2)
+  - [Hash Tables (Hashing)](#hash-tables-hashing)
+  - [Sorting Algorithms](#sorting-algorithms)
+  - [Searching Algorithms](#searching-algorithms)
   - [Feedback and Suggestions](#feedback-and-suggestions)
-  - [Connect with us :gift\_heart:](#connect-with-us-gift_heart)
+  - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
 
 ## Big O
 
 - [Big O Overview](BigO/README.md)
-- [Big O Implementation](BigO/big.js)
+- [Big O](BigO/big.js)
 
 ## Classes & Pointers
 
-- [Class Implementation](Classes&Pointers/classes.js)
-- [Pointer Implementation](Classes&Pointers/pointers.js)
+- [Class](Classes&Pointers/classes.js)
+- [Pointer](Classes&Pointers/pointers.js)
 
 ## Recursion
 
-- [Recursion Examples](Recursion/Recursion.js)
+- [Recursion](Recursion/Recursion.js)
 
 ## Arrays
 
@@ -65,31 +67,42 @@
 ## Linked List
 
 - [Linked List Overview](LinkedList/README.md)
-- [Linked List Implementation](LinkedList/Linkedlist.js)
-- [Doubly Linked List Implementation](LinkedList/Doublyll.js)
-- [Circular Linked List Implementation](LinkedList/Circularll.js)
+- [Linked List](LinkedList/Linkedlist.js)
+- [Doubly Linked List](LinkedList/Doublyll.js)
+- [Circular Linked List](LinkedList/Circularll.js)
 - Questions on Linkedlists: 👇
   - [Remove Duplicates from Sorted List](LinkedList/removeDuplicates.js)
 
 ## Stack
 
 - [Stack Overview](Stack/README.md)
-- [Stack Implementation](Stack/stack.js)
-- Questions on Stack: 👇
-  - [Valid Parentheses](Stack/validParentheses.js)
-  - [Implement Stack using Queues](Stack/stackUsingQueue.js)
+- [Stack](Stack/stack.js)
 
 ## Queue
 
 - [Queue Overview](Queue/README.md)
-- [Queue Implementation](Queue/queue.js)
-- Questions on Queue: 👇
-  - [Implement Queue using Stacks](Queue/queueUsingStack.js)
+- [Queue](Queue/queue.js)
 
-## Companies Wise :star2:
+## Hash Tables (Hashing)
 
-- [Google](#google)
-- [Facebook](#facebook)
+- [Hashing Overview](Hashing/README.md)
+- [Hash Table](Hashing/hashTable.js)
+
+## Sorting Algorithms
+
+- [Sorting Algorithms Overview](SortingAlgorithms/README.md)
+- [Bubble Sort](SortingAlgorithms/bubbleSort.js)
+- [Selection Sort](SortingAlgorithms/selectionSort.js)
+- [Insertion Sort](SortingAlgorithms/insertionSort.js)
+- [Merge Sort](SortingAlgorithms/mergeSort.js)
+- [Quick Sort](SortingAlgorithms/quickSort.js)
+- [Heap Sort](SortingAlgorithms/heapSort.js)
+
+## Searching Algorithms
+
+- [Searching Algorithms Overview](SearchingAlgorithms/README.md)
+- [Linear Search](SearchingAlgorithms/linearSearch.js)
+- [Binary Search](SearchingAlgorithms/binarySearch.js)
 
 ## Feedback and Suggestions
 
