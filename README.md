@@ -82,6 +82,11 @@
 
 - [Queue Overview](Queue/README.md)
 - [Queue](Queue/queue.js)
+- [Circular Queue](Queue/circularQueue.js)
+- [Priority Queue](Queue/priorityQueue.js)
+- [Double ended Queue(Deque)](Queue/deque.js)
+- Questions on Queue: 👇
+  - [Sliding Window Maximum](Queue/slidingWindow.js)
 
 ## Hash Tables (Hashing)
 
