@@ -17,10 +17,11 @@
   - [Stack](#stack)
   - [Queue](#queue)
   - [Hash Tables (Hashing)](#hash-tables-hashing)
+  - [Sets and Maps](#sets-and-maps)
   - [Sorting Algorithms](#sorting-algorithms)
   - [Searching Algorithms](#searching-algorithms)
   - [Feedback and Suggestions](#feedback-and-suggestions)
-  - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
+  - [Connect with us :gift\_heart:](#connect-with-us-gift_heart)
 
 ## Big O
 
@@ -92,6 +93,12 @@
 
 - [Hashing Overview](Hashing/README.md)
 - [Hash Table](Hashing/hashTable.js)
+
+## Sets and Maps
+
+- [Sets and Maps Overview](Sets&Maps/README.md)
+- [Set](Sets&Maps/set.js)
+- [Map](Sets&Maps/map.js)
 
 ## Sorting Algorithms
 
