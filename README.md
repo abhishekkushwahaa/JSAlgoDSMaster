@@ -20,8 +20,13 @@
   - [Sets and Maps](#sets-and-maps)
   - [Sorting Algorithms](#sorting-algorithms)
   - [Searching Algorithms](#searching-algorithms)
+  - [Trees](#trees)
+  - [Graphs](#graphs)
+  - [Greedy Algorithms](#greedy-algorithms)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Other Topics](#other-topics)
   - [Feedback and Suggestions](#feedback-and-suggestions)
-  - [Connect with us :gift\_heart:](#connect-with-us-gift_heart)
+  - [Connect with us :gift_heart:](#connect-with-us-gift_heart)
 
 ## Big O
 
@@ -115,6 +120,52 @@
 - [Searching Algorithms Overview](SearchingAlgorithms/README.md)
 - [Linear Search](SearchingAlgorithms/linearSearch.js)
 - [Binary Search](SearchingAlgorithms/binarySearch.js)
+
+## Trees
+
+- [Trees Overview](Trees/README.md)
+- [Binary Tree](Trees/binaryTree.js)
+- [Binary Search Tree](Trees/binarySearchTree.js)
+- [AVL Tree](Trees/avlTree.js)
+- [Segment Tree](Trees/segmentTree.js)
+- [Fenwick Tree](Trees/fenwickTree.js)
+- [Balanced Tree](Trees/balancedTree.js)
+- [Red-Black Tree](Trees/redBlackTree.js)
+- [Trie](Trees/trie.js)
+
+## Graphs
+
+- [Graphs Overview](Graphs/README.md)
+- [Breadth First Search](Graphs/bfs.js)
+- [Depth First Search](Graphs/dfs.js)
+- [Bellman-Ford Algorithm](Graphs/bellmanFord.js)
+- [Dijkstra's Algorithm](Graphs/dijkstra.js)
+- [Ford-Fulkerson Algorithm](Graphs/fordFulkerson.js)
+- [Floyd-Warshall Algorithm](Graphs/floydWarshall.js)
+
+## Greedy Algorithms
+
+- [Greedy Algorithms Overview](GreedyAlgorithms/README.md)
+- [Greedy Algorithms](GreedyAlgorithms/greedyAlgorithms.js)
+- [Huffman Coding](GreedyAlgorithms/huffmanCoding.js)
+- [Activity Selection Problem](GreedyAlgorithms/activitySelection.js)
+- [Fractional Knapsack Problem](GreedyAlgorithms/fractionalKnapsack.js)
+- [Job Sequencing Problem](GreedyAlgorithms/jobSequencing.js)
+- [Minimum Spanning Tree](GreedyAlgorithms/minimumSpanningTree.js)
+- [Prim's Algorithm](GreedyAlgorithms/prim.js)
+- [Kruskal's Algorithm](GreedyAlgorithms/kruskal.js)
+- [Dijkstra's Algorithm](GreedyAlgorithms/dijkstra.js)
+
+## Dynamic Programming
+
+- [Dynamic Programming Overview](DynamicProgramming/README.md)
+- [Dynamic Programming](DynamicProgramming/dynamicProgramming.js)
+
+## Other Topics
+
+- [Bit Manipulation](BitManipulation/bitManipulation.js)
+- [Backtracking](Backtracking/backtracking.js)
+- [Divide and Conquer](DivideAndConquer/divideAndConquer.js)
 
 ## Feedback and Suggestions
 
