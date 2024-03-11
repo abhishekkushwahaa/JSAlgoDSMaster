@@ -18,7 +18,7 @@ A tree is a data structure that consists of nodes in a parent/child relationship
 ## Binary Tree
 
 A binary tree is a tree in which each node has up to two children, referred to as the left child and the right child.
-[!Binary Tree](https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2020/09/Picture1-1.jpg)
+![Binary Tree](https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2020/09/Picture1-1.jpg)
 
 ### Binary Tree Traversal
 
