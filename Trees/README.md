@@ -19,6 +19,11 @@ A tree is a data structure that consists of nodes in a parent/child relationship
       - [Insert](#insert-1)
       - [Find](#find)
       - [Remove](#remove-1)
+  - [AVL Tree](#avl-tree)
+    - [AVL Tree Pseudocode](#avl-tree-pseudocode)
+      - [Insert](#insert-2)
+      - [Find](#find-1)
+      - [Remove](#remove-2)
 
 ## Binary Tree
 
@@ -97,6 +102,76 @@ There are three main ways to traverse a binary tree:
 A binary search tree is a binary tree in which every node has no more than two children. The left child is always less than the parent node, and the right child is always greater than the parent node.
 
 ### Binary Search Tree Pseudocode
+
+#### Insert
+
+```plaintext
+1. Create a new node.
+2. Starting at the root:
+   a. Check if there is a root, if not, the new node becomes the root.
+   b. If there is a root, check if the value of the new node is greater than or less than the value of the root.
+   c. If it is greater:
+      i. Check to see if there is a node to the right.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, add that node as the right property.
+   d. If it is less:
+      i. Check to see if there is a node to the left.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, add that node as the left property.
+```
+
+#### Find
+
+```plaintext
+1. Starting at the root:
+   a. Check if there is a root, if not, the tree is empty.
+   b. If there is a root, check if the value of the new node is greater than or less than the value of the root.
+   c. If it is greater:
+      i. Check to see if there is a node to the right.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, the node does not exist in the tree.
+   d. If it is less:
+      i. Check to see if there is a node to the left.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, the node does not exist in the tree.
+```
+
+#### Remove
+
+```plaintext
+1. Starting at the root:
+   a. Check if there is a root, if not, the tree is empty.
+   b. If there is a root, check if the value of the new node is greater than or less than the value of the root.
+   c. If it is greater:
+      i. Check to see if there is a node to the right.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, the node does not exist in the tree.
+   d. If it is less:
+      i. Check to see if there is a node to the left.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, the node does not exist in the tree.
+```
+
+## AVL Tree
+
+An AVL tree is a self-balancing binary search tree. It maintains the property that the height of the left and right subtrees of every node differs by at most one.
+
+### AVL Tree Pseudocode
+
+```plaintext
+1. Create a new node.
+2. Starting at the root:
+   a. Check if there is a root, if not, the new node becomes the root.
+   b. If there is a root, check if the value of the new node is greater than or less than the value of the root.
+   c. If it is greater:
+      i. Check to see if there is a node to the right.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, add that node as the right property.
+   d. If it is less:
+      i. Check to see if there is a node to the left.
+      ii. If there is, move to that node and repeat these steps.
+      iii. If there is not, add that node as the left property.
+```
 
 #### Insert
 
